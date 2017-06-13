@@ -1,0 +1,4 @@
+[submodule "revel"]
+	path = revel
+	url = https://github.com/GoLancer/revel.git
+	branch = master
